@@ -1,0 +1,16 @@
+[
+  {
+    "businessNumber": "1234567890",
+    "sellerID": "seller01",
+    "storeID": "store01",
+    "domain": "example.com",
+    "talkChannelID": "talk01"
+  },
+  {
+    "businessNumber": "1112223333",
+    "sellerID": "seller02",
+    "storeID": "store02",
+    "domain": "shop.com",
+    "talkChannelID": "talk02"
+  }
+]
